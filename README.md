@@ -1,7 +1,7 @@
-# Mangoes-By-Plucking-
+# Plucking Mangoes P28
 
-## Project-28
+White Hat Jr Plucking Mangoes Project 28 Class 28
 
-## Link For The Game Online:- 
+Press, Hold, and release your mouse, and throw them at the mangoes plucked at the tree. Press SPACE to reset! 
 
-## https://harsha-e.github.io/Mangoes-By-Plucking-/
+Give me some if you did get any :D
